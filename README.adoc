@@ -1,0 +1,19 @@
+= Java Microservices Project Overview
+
+This is the parent repository for the Java microservices project. It provides links to all resources outlining steps to building a full set of microservices starting from the building blocks.
+
+== Notes
+
+This project is still a work in progress. Star/Watch this repository to catch updates!
+
+== Related repositories
+
+* https://github.com/JMHReif/microservices-level1[Level 1: 2 Spring Boot apps^]
+* https://github.com/JMHReif/microservices-level2[Level 2: 2 Spring Boot apps with book data^]
+* https://github.com/JMHReif/microservices-level3[Level 3: 2 Spring Boot apps with database^]
+* https://github.com/JMHReif/microservices-level4[Level 4: 3 Spring Boot apps with database^]
+* https://github.com/JMHReif/microservices-level5[Level 5: Apps and database managed by docker-compose^]
+
+// == Related presentations
+
+// * ???
