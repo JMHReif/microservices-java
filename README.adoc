@@ -13,6 +13,11 @@ This project is still a work in progress. Star/Watch this repository to catch up
 * https://github.com/JMHReif/microservices-level3[Level 3: 2 Spring Boot apps with database^]
 * https://github.com/JMHReif/microservices-level4[Level 4: 3 Spring Boot apps with database^]
 * https://github.com/JMHReif/microservices-level5[Level 5: Apps and database managed by docker-compose^]
+* https://github.com/JMHReif/microservices-level6[Level 6: Neo4j microservice^]
+* https://github.com/JMHReif/microservices-level7[Level 7: Spring Cloud Config with Neo4j^]
+* https://github.com/JMHReif/microservices-level8[Level 8: Spring Cloud Config with MongoDB^]
+* https://github.com/JMHReif/microservices-level9[Level 9: Docker Compose for all the things^]
+* https://github.com/JMHReif/microservices-level10[Level 10: Spring Eureka for service discovery^]
 
 == Related Blog Posts
 
@@ -21,6 +26,10 @@ This project is still a work in progress. Star/Watch this repository to catch up
 * https://jmhreif.com/blog/microservices-level3/[Level 3^]
 * https://jmhreif.com/blog/microservices-level4/[Level 4^]
 * https://jmhreif.com/blog/microservices-level5/[Level 5^]
+* https://jmhreif.com/blog/microservices-level6/[Level 6^]
+* https://jmhreif.com/blog/microservices-level7/[Level 7^]
+* https://jmhreif.com/blog/microservices-level8/[Level 8^]
+* https://jmhreif.com/blog/microservices-level9/[Level 9^]
 
 == Related presentations
 
